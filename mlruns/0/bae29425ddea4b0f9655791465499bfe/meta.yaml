@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ankur/Desktop/Mely.ai/proj3_sklearn/mlruns/0/bae29425ddea4b0f9655791465499bfe/artifacts
+end_time: 1717865580699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bae29425ddea4b0f9655791465499bfe
+run_name: carefree-moth-632
+run_uuid: bae29425ddea4b0f9655791465499bfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717865577635
+status: 3
+tags: []
+user_id: ankur
